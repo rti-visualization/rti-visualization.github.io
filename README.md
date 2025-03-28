@@ -1,4 +1,4 @@
-## Hi there 👋
+## Online visualization of RTI data
 
 <!--
 **rti-visualization/rti-visualization** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
